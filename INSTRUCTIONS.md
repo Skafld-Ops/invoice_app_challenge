@@ -40,13 +40,19 @@ You are free to use any stack, but we recommend:
 
 ## 🚀 Submission Instructions
 
-1. **Deploy your app** (e.g., to Vercel or similar)
-2. **Push code to GitHub** (public repo)
-3. **Submit this info via the provided form:**
+1. **Fork or clone this repo** into your own GitHub account.
+2. Work locally and push progress to a new **public GitHub repository** (you can rename it, e.g., `invoice-app-janedoe`).
+3. Commit regularly to show your work process.
+4. Upon completion:
+   - Push final code to your main branch
+   - Include:
+     - `README.md` — with setup instructions
+     - `agentic-dev.md` — describing any agentic tooling used (Cursor, Windsurf, etc.)
+   - Deploy your app (e.g., Vercel or similar)
+5. Submit your:
    - GitHub repo URL
    - Live demo URL
-   - Agentic tools used (Cursor, Windsurf, etc.)
-   - File `agentic-dev.md` in your repo explaining how you used AI-native tooling (e.g., reflexes, custom prompts, automation chains)
+   - Notes on agentic tooling via the form provided
 
 ---
 
@@ -60,6 +66,6 @@ You are free to use any stack, but we recommend:
 ---
 
 ## ❓ Questions?
-DM us on Upwork or email [email@skafldstudio.com] with any clarifications.
+DM us on Upwork or email mike@skafldstudio.com with any clarifications.
 
 Good luck, and have fun building! 🚀
